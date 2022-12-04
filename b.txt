@@ -1,2 +1,2 @@
 linea 1, file b
-linea 2
+linea 2, file b
