@@ -1,3 +1,0 @@
-file a, linea 1.
-file a, linea 2.
-linea 3.
